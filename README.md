@@ -1,4 +1,4 @@
-# crew-ai-projects
+# AI AGENT PROJECTS
 
 Some of the work involving crew ai agents
 
